@@ -282,4 +282,4 @@ The most challenging part was designing a clean and responsive user interface wh
 
 **Khwahish Seth**
 
-Built as part of the **OneShopAI Web Development Intern Technical Assignment**.
+Built as part of the **OneShopAI Web Development Technical Assignment**.
