@@ -6,7 +6,7 @@ const EmptyState = ({ isFiltered, clearFilter }) => {
 
       <div className="w-20 h-20 rounded-full bg-blue-100 flex items-center justify-center mb-6">
         <SearchX className="text-blue-600" size={40} />
-      </div>
+      </div> 
 
       <h2 className="text-2xl font-bold text-slate-800">
         {isFiltered
