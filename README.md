@@ -277,9 +277,7 @@ If more time were available, the following features could be added:
 The most challenging part was designing a clean and responsive user interface while keeping the application simple and within the assignment scope. I focused on building reusable React components, maintaining clear state management, and ensuring smooth communication between the React frontend and the Express backend using REST APIs.
 
 ---
-#challenges 
-The most challenging part of this assignment was designing a clean and responsive user interface while keeping the application within the required scope. I approached it by breaking the UI into reusable React components and implementing each feature incrementally. I also focused on maintaining clean API communication between the React frontend and Express backend while ensuring a smooth user experience through loading states, validation, and responsive layouts.
----
+
 # 👨‍💻 Author
 
 **Khwahish Seth**
