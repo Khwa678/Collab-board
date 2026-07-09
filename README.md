@@ -6,6 +6,8 @@ Users can create collaboration posts by providing their name, project title, des
 
 This project was built as part of the **OneShopAI Web Development Intern Technical Assignment**, focusing on clean architecture, responsive design, and a simple yet intuitive user experience.
 
+deploy on render : frontend :https://collab-board-1-dvtq.onrender.com/   backend:https://collab-board-daz8.onrender.com/api/health
+
 ---
 
 # 🚀 Features
