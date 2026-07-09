@@ -353,7 +353,17 @@ If more development time were available, the following enhancements could be imp
 - Most popular skills
 - Active projects overview
 - User engagement analytics
+---
 
+## Deployment
+
+Frontend: Render Static Site
+
+Backend: Render Web Service
+
+Database: MongoDB Atlas
+
+---
   # 👨‍💻 Author
 
 **Khwahish Seth**
