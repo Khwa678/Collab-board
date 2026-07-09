@@ -103,7 +103,7 @@ Before running the project, make sure you have:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/collab-board.git
+git clone https://github.com/Khwa678/Collab-board.git
 
 cd collab-board
 ```
@@ -279,8 +279,82 @@ If more time were available, the following features could be added:
 The most challenging part was designing a clean and responsive user interface while keeping the application simple and within the assignment scope. I focused on building reusable React components, maintaining clear state management, and ensuring smooth communication between the React frontend and the Express backend using REST APIs.
 
 ---
+## 🚀 Future Improvements
 
-# 👨‍💻 Author
+If more development time were available, the following enhancements could be implemented:
+
+### 🔐 Authentication & Authorization
+- JWT-based user authentication
+- Secure login and registration
+- Password hashing using bcrypt
+- Protected routes
+- Role-based access control
+- Users can edit and delete only their own posts
+
+### 👥 User Profiles
+- User profile pages
+- Profile pictures
+- Bio and social links
+- View posts created by a specific user
+
+### 🔍 Search & Filtering
+- Server-side search by project title and description
+- Backend filtering by skills
+- Advanced multi-skill filtering
+- Sorting by newest, oldest, or most relevant
+
+### 📄 Pagination
+- Server-side pagination
+- Infinite scrolling
+- Lazy loading for better performance
+
+### ⚡ Performance Optimization
+- MongoDB indexing for faster queries
+- Redis caching for frequently accessed data
+- Image optimization
+- API response caching
+
+### 💬 Collaboration Features
+- Comments on collaboration posts
+- Direct messaging between users
+- Collaboration request system
+- Real-time notifications using Socket.IO
+
+### 📱 User Experience
+- Dark/Light mode
+- Drag-and-drop skill tags
+- Rich text editor for project descriptions
+- Better loading skeletons and animations
+- Accessibility improvements (WCAG compliance)
+
+### ☁️ DevOps & Deployment
+- Docker support
+- CI/CD using GitHub Actions
+- Automated testing before deployment
+- Environment-based configuration
+- Production logging and monitoring
+
+### 🧪 Testing
+- Unit testing with Jest
+- API testing with Supertest
+- End-to-end testing using Cypress
+- Integration testing
+
+### 🛡️ Security
+- Rate limiting
+- Request validation
+- Helmet.js for security headers
+- CSRF protection
+- XSS prevention
+- Input sanitization
+
+### 📊 Analytics
+- Dashboard with collaboration statistics
+- Most popular skills
+- Active projects overview
+- User engagement analytics
+
+  # 👨‍💻 Author
 
 **Khwahish Seth**
 
