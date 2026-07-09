@@ -3,12 +3,7 @@ import relativeTime from "dayjs/plugin/relativeTime";
 
 dayjs.extend(relativeTime);
 
-/**
- * Renders one collaboration post as a card.
- * onDelete is passed down from the parent so PostCard stays "dumb" —
- * it only reports the user's intent to delete, the actual API call
- * and state update live higher up in App.jsx.
- */
+
 const PostCard = ({ post, onDelete }) => {
   return (
     <div className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-shadow p-5 flex flex-col gap-3 border border-slate-100">

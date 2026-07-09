@@ -1,17 +1,5 @@
 import { useState } from "react";
 
-/**
- * Form for creating a new collaboration post.
- *
- * Skill tags work like most tag inputs you've used elsewhere (Gmail
- * "To" field, GitHub issue labels): type a word, press Enter, it
- * becomes a removable chip. This is friendlier than asking users to
- * type comma-separated text and parse it themselves.
- *
- * onSubmit is a prop function — this component doesn't know or care
- * how the post actually gets saved, it just reports finished,
- * validated data upward. That's what keeps it reusable and testable.
- */
 const PostForm = ({ onSubmit, isSubmitting }) => {
   const [name, setName] = useState("");
   const [title, setTitle] = useState("");
